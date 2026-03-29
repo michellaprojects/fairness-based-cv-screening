@@ -41,14 +41,14 @@ pip install -r requirements.txt
 
 ## 4. Coding Standards
 
-* Use Python 3.10+
-* Follow PEP 8
-* Keep functions modular:
+- Use Python 3.10+
+- Follow PEP 8
+- Keep functions modular:
 
-  * preprocessing
-  * feature extraction
-  * scoring
-* Avoid hardcoding paths or dataset assumptions
+  - preprocessing
+  - feature extraction
+  - scoring
+- Avoid hardcoding paths or dataset assumptions
 
 ---
 
@@ -68,6 +68,6 @@ docs: update contributing guide
 
 Ensure that:
 
-* The feature or bug fix is clearly explained
-* Results are reproducible (consistent across runs)
-* No sensitive data is included (e.g., API keys, private datasets)
+- The feature or bug fix is clearly explained
+- Results are reproducible (consistent across runs)
+- No sensitive data is included (e.g., API keys, private datasets)
